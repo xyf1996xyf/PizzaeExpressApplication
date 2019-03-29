@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e93c6</color>
+    <color name="color_secondary_primary">#0afd94</color>
+    <color name="colorPrimaryDark">#e6ebf0</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- bg -->
+    <color name="dark_grey">#363636</color>
+    <color name="light_grey">#f0f0f0</color>
+    <!-- common -->
+    <color name="common_bg">#c6def2</color>
+    <color name="common_gray_light">#f7f7f8</color>
+    <color name="common_line_grey">#dcdcdc</color>
+    <color name="common_line_item_grey">#c1c1c1</color>
+    <color name="common_tip_bg">#fffbe8</color>
+    <color name="common_divide_line">#dcdcdc</color>
+    <color name="common_white">#ffffff</color>
+    <color name="common_black">#333333</color>
+    <color name="common_red">#ea5505</color>
+    <!-- text -->
+    <color name="text_primary">#151936</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_tertiary">#999999</color>
+    <color name="text_disable">#999999</color>
+    <color name="text_hint">#c1c1c1</color>
+    <color name="text_tips">#ea5505</color>
+    <color name="text_red">#f66b6b</color>
+    <color name="text_golden">#d7ac62</color>
+    <!-- button -->
+    <color name="button_bg_white">#e5ffffff</color>
+    <color name="button_gray">#999999</color>
+    <color name="button_red">#f66b6b</color>
+
+    <!-- list -->
+    <color name="list_item_bg">#ffffff</color>
+
+    <!-- common color -->
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#ff28713f</color>
+    <color name="blue">#ff0000ff</color>
+
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#999999</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+</resources>

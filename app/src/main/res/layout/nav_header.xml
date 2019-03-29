@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:padding="10dp"
+                android:background="?attr/colorPrimary">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/head_portrait"
+        android:layout_width="70dp"
+        android:layout_height="80dp"
+        android:src="@drawable/head"
+        android:layout_centerInParent="true"/>
+    <TextView
+            android:text="1102266271@qq.com"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:textColor="#FFF"
+            android:textSize="14sp"
+            android:id="@+id/email"
+            android:layout_centerInParent="true"/>
+    <TextView
+            android:text="叶润杰"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/email"
+            android:id="@+id/nick_name"
+            android:textColor="#FFF"
+            android:textSize="14sp"
+            android:layout_centerInParent="true"/>
+
+</RelativeLayout>

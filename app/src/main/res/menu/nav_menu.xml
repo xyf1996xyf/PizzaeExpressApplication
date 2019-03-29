@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_collect"
+                android:title="收藏"/>
+        <item
+                android:id="@+id/nav_friends"
+                android:title="我关注的"/>
+        <item
+                android:id="@+id/nav_be_followed"
+                android:title="关注我的"/>
+        <item
+                android:id="@+id/nav_settings"
+                android:title="设置"/>
+        <item
+                android:id="@+id/logout"
+                android:title="注销"/>
+    </group>
+
+</menu>
